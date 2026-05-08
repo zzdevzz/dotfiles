@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = dev.h@hotmail.co.uk
-	name = Dev Halai
+	email = dev@users.noreply.github.com
+	name = Dev H
